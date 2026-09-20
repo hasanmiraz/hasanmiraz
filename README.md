@@ -1,15 +1,20 @@
 ### Welcome!
 
-![](https://komarev.com/ghpvc/?username=hasanmiraz&color=gray)
+![Profile views](https://komarev.com/ghpvc/?username=hasanmiraz&color=gray)
 
 ## All Time
 
-![stats](https://github-readme-stats.vercel.app/api?username=hasanmiraz&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hasanmiraz&show_icons=true&include_all_commits=true&hide_border=true&cache_seconds=86400&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hasanmiraz&show_icons=true&include_all_commits=true&hide_border=true&cache_seconds=86400&theme=default">
+  <img alt="Hasan Miraz's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hasanmiraz&show_icons=true&include_all_commits=true&hide_border=true&cache_seconds=86400">
+</picture>
 
-![](https://raw.githubusercontent.com/hasanmiraz/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/hasanmiraz/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/hasanmiraz/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/hasanmiraz/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmiraz&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmiraz&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400&theme=default">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmiraz&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400">
+</picture>
 
 ### Current Areas of Interest
 
@@ -24,5 +29,5 @@
 
 Statistics powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub](https://img.shields.io/github/followers/hasanmiraz.svg?label=GitHub&style=social)](https://github.com/hasanmiraz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/YOUR_HANDLE)
+[![GitHub](https://img.shields.io/github/followers/hasanmiraz?label=Follow&style=social)](https://github.com/hasanmiraz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_HANDLE)
