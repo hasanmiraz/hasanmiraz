@@ -30,4 +30,4 @@
 Statistics powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub](https://img.shields.io/github/followers/hasanmiraz?label=Follow&style=social)](https://github.com/hasanmiraz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasibul-miraz/)
