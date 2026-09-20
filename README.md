@@ -1,16 +1,28 @@
-## Hi there 👋
+### Welcome!
 
-<!--
-**hasanmiraz/hasanmiraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=hasanmiraz&color=gray)
 
-Here are some ideas to get you started:
+## All Time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![stats](https://github-readme-stats.vercel.app/api?username=hasanmiraz&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+
+![](https://raw.githubusercontent.com/hasanmiraz/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/hasanmiraz/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/hasanmiraz/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/hasanmiraz/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+### Current Areas of Interest
+
+- Computer Vision: RT-DETR, SAM, SAHI, ByteTrack
+- VLMs for scene understanding and reporting
+- High-res multi-site inference pipelines (Django, Celery, RabbitMQ)
+- Quantum image processing (published)
+
+### Projects
+
+- Insite Monitoring: construction site CV platform
+
+Statistics powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub](https://img.shields.io/github/followers/hasanmiraz.svg?label=GitHub&style=social)](https://github.com/hasanmiraz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/YOUR_HANDLE)
