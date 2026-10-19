@@ -12,6 +12,18 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v4
+      # Rank card computed from all-time totals, including private contributions
+      - name: Generate rank card
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: node .github/scripts/rank.mjs ${{ github.repository_owner }} github-rank.svg
+      - name: Commit rank card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-rank.svg
+          git diff --cached --quiet || (git commit -m "Update github-rank.svg - [Skip GitHub Action]" && git push)
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
