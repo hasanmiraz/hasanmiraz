@@ -1,0 +1,19 @@
+name: Metrics
+on:
+  # Update automatically every 24 hours
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Setup standard base plugin but include all repos
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes # This is required to deeply query private repos
