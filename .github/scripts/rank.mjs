@@ -122,7 +122,7 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="420" height="200" vi
     text { font-family: "Segoe UI", Ubuntu, Sans-Serif; }
   </style>
   <rect class="bg" width="420" height="200" rx="6"/>
-  <text class="title" x="24" y="34" font-size="18" font-weight="600">${login}'s GitHub Rank (incl. private)</text>
+  <text class="title" x="24" y="34" font-size="18" font-weight="600">${login}'s GitHub Rank</text>
   ${rows
     .map(
       ([label, value], i) =>
