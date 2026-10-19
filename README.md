@@ -4,6 +4,8 @@
 
 ## All Time
 
+![Metrics](github-metrics.svg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hasanmiraz&show_icons=true&include_all_commits=true&hide_border=true&cache_seconds=86400&theme=github_dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hasanmiraz&show_icons=true&include_all_commits=true&hide_border=true&cache_seconds=86400&theme=default">
