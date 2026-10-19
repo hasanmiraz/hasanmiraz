@@ -7,12 +7,6 @@
 ![Metrics](github-metrics.svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hasanmiraz&show_icons=true&include_all_commits=true&hide_border=true&cache_seconds=86400&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hasanmiraz&show_icons=true&include_all_commits=true&hide_border=true&cache_seconds=86400&theme=default">
-  <img alt="Hasan Miraz's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hasanmiraz&show_icons=true&include_all_commits=true&hide_border=true&cache_seconds=86400">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmiraz&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400&theme=github_dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmiraz&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400&theme=default">
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmiraz&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400">
