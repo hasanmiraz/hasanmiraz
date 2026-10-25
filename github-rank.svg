@@ -8,16 +8,16 @@
   </style>
   <rect class="bg" width="420" height="200" rx="6"/>
   <text class="title" x="24" y="34" font-size="18" font-weight="600">hasanmiraz's GitHub Rank</text>
-  <text class="text" x="24" y="66" font-size="14">Total commits:</text><text class="text" x="200" y="66" font-size="14" font-weight="700">3,386</text>
-  <text class="text" x="24" y="88" font-size="14">Total PRs:</text><text class="text" x="200" y="88" font-size="14" font-weight="700">516</text>
-  <text class="text" x="24" y="110" font-size="14">Total issues:</text><text class="text" x="200" y="110" font-size="14" font-weight="700">142</text>
+  <text class="text" x="24" y="66" font-size="14">Total commits:</text><text class="text" x="200" y="66" font-size="14" font-weight="700">3,652</text>
+  <text class="text" x="24" y="88" font-size="14">Total PRs:</text><text class="text" x="200" y="88" font-size="14" font-weight="700">545</text>
+  <text class="text" x="24" y="110" font-size="14">Total issues:</text><text class="text" x="200" y="110" font-size="14" font-weight="700">145</text>
   <text class="text" x="24" y="132" font-size="14">PR reviews:</text><text class="text" x="200" y="132" font-size="14" font-weight="700">0</text>
   <text class="text" x="24" y="154" font-size="14">Stars earned:</text><text class="text" x="200" y="154" font-size="14" font-weight="700">4</text>
   <text class="text" x="24" y="176" font-size="14">Followers:</text><text class="text" x="200" y="176" font-size="14" font-weight="700">1</text>
   <g transform="translate(340 115)">
     <circle class="ring-bg" r="40" fill="none" stroke-width="6"/>
     <circle class="ring" r="40" fill="none" stroke-width="6" stroke-linecap="round"
-      stroke-dasharray="251.32741228718345" stroke-dashoffset="122.01859490036182" transform="rotate(-90)"/>
+      stroke-dasharray="251.32741228718345" stroke-dashoffset="121.29505708189056" transform="rotate(-90)"/>
     <text class="text" y="10" font-size="28" font-weight="800" text-anchor="middle">B+</text>
   </g>
 </svg>
